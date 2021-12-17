@@ -1,0 +1,30 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/bai-4-state-lifecycle-method/th-dem-so-lan-click-vao-button-tang-giam/node_modules
+/bai-4-state-lifecycle-method/th-doi-mau-component-sau-khi-xuat-hien/node_modules
+/bai-4-state-lifecycle-method/th-hien-thong-bao-truoc-khi-component-an/node_modules
+/bai-4-state-lifecycle-method/th-kiem-tra-user-login-logout/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+bai-4-state-lifecycle-method/th-dem-so-lan-click-vao-button-tang-giam/package-lock.json
+bai-4-state-lifecycle-method/th-doi-mau-component-sau-khi-xuat-hien/package-lock.json
+bai-4-state-lifecycle-method/th-hien-thong-bao-truoc-khi-component-an/package-lock.json
+bai-4-state-lifecycle-method/th-kiem-tra-user-login-logout/package-lock.json
